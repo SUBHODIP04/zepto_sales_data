@@ -26,4 +26,4 @@ To help Zepto’s management team make data-driven decisions, track performance 
 
 ## Dashboard
 <br>
-https://github.com/SUBHODIP04/zepto_sales_data/blob/main/Zepto%20sales%20dashboard.png
+[https://github.com/SUBHODIP04/zepto_sales_data/blob/main/Zepto%20sales%20dashboard.png](https://github.com/SUBHODIP04/zepto_sales_data/blob/main/Zepto%20%20dashboard.png)
